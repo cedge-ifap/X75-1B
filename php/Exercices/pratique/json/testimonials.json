@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "client": "Restaurant Le Gourmet Local",
+    "rating": 5,
+    "comment": "Des produits d’une qualité exceptionnelle, toujours frais et livrés à l’heure."
+  },
+  {
+    "id": 2,
+    "client": "AMAP Les Paniers du Village",
+    "rating": 4,
+    "comment": "Une belle variété de légumes de saison, nos adhérents sont ravis."
+  },
+  {
+    "id": 3,
+    "client": "Famille Martin",
+    "rating": 5,
+    "comment": "Nous avons remplacé le supermarché par les paniers de la Ferme Durand, un vrai plus pour notre alimentation."
+  }
+]

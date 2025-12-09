@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "label": "Agriculture Products",
+    "desc": "Agriculture products made with local and organic ingredients."
+  },
+  {
+    "id": 2,
+    "label": "Oragnic Products",
+    "desc": "Organic products made with local ingredients."
+  }
+]

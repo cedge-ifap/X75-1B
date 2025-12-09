@@ -1,0 +1,7 @@
+[
+  { "id": 1, "label": "Accueil", "link": "/home" },
+  { "id": 2, "label": "Offre", "link": "/offer" },
+  { "id": 3, "label": "Dernier projet", "link": "/last-project" },
+  { "id": 4, "label": "Témoignages", "link": "/testimonials" },
+  { "id": 5, "label": "Contact", "link": "/contact" }
+]
