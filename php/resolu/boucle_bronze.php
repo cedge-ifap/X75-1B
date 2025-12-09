@@ -165,4 +165,3 @@ foreach ($tableau as $saison => $legumes) {
     echo '</li>';
 }
 echo '</ul>';
-
